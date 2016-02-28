@@ -29,7 +29,7 @@ __Structural Patterns__:
 | [adapter](adapter.py) | adapt one interface to another using a white-list |
 | [bridge](bridge.py) | a client-provider middleman to soften interface changes |
 | [composite](composite.py) | encapsulate and provide access to a number of different objects |
-| [decorator](decorator.py) | wrap functionality with other functionality in order to affect outputs |
+| [decorator](decorator.py) | wrap functionality with other functionality in order to affect outputs. Decorator pattern allows a user to add new functionality to an existing object without altering its structure. |
 | [facade](facade.py) | use one class as an API to a number of others |
 | [flyweight](flyweight.py) | transparently reuse existing instances of objects with similar/identical state |
 | [front_controller](front_controller.py) | single handler requests coming to the application |
